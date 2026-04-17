@@ -1,10 +1,10 @@
 # Relatório de Paralelização MPI — Similaridade de Perguntas NLP
 
 **Disciplina:** Programação Paralela
-**Aluno(s):** _(preencher)_
-**Turma:** _(preencher)_
-**Professor:** _(preencher)_
-**Data:** _(preencher)_
+**Aluno(s):** _Vinícius Caetano de Assis_
+**Turma:** _ADS 5°_
+**Professor:** _Rafael_
+**Data:** _10/04/2026_
 
 ---
 
